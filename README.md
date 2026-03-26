@@ -33,6 +33,8 @@ Please handle the following tasks.
         directory: /
         schedule:
           interval: weekly
+        assignees:
+          - kotaoue
     ```
 
 1. Please pin Action versions to commit SHAs
