@@ -19,7 +19,7 @@ This is both the origin and the emptiness.
 
 Please handle the following tasks.
 
-1. Set up Dependabot version updates
+1. Please set up Dependabot version updates
     Add `.github/dependabot.yml`
 
     Use the following as a base, and add entries for any languages used in this repository:
@@ -33,9 +33,11 @@ Please handle the following tasks.
         directory: /
         schedule:
           interval: weekly
+        assignees:
+          - kotaoue
     ```
 
-1. Pin Action versions to commit SHAs
+1. Please pin Action versions to commit SHAs
     Replace `uses:` tag references with pinned commit SHAs in all workflows:
 
     ```yaml
@@ -46,5 +48,7 @@ Please handle the following tasks.
     - uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683 # v4.2.2
     ```
 
-1. Remove the "GitHub Initial Setup" section from README and clean it up
+1. Please remove the "GitHub Initial Setup" section from the README and make it more organized.
+
+1. Please rewrite the README based on the contents/name/About of this repository.
 ```
