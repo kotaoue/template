@@ -8,13 +8,14 @@ This is both the origin and the emptiness.
 
 ## GitHub Initial Setup
 
-### To be configured by the user
+```markdown
+## To be configured by the user
 
 - [ ] Set up Branch Protection Rules at [Settings/rules](../../settings/rules)
 - [ ] Enable "Automatically delete head branches" at [Settings](../../settings)
 - [ ] Review security settings at [Security](../../security)
 
-### Request to Copilot
+## Request to Copilot
 
 Please handle the following tasks.
 
@@ -46,3 +47,4 @@ Please handle the following tasks.
     ```
 
 1. Remove the "GitHub Initial Setup" section from README and clean it up
+```
