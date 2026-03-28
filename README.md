@@ -11,9 +11,9 @@ This is both the origin and the emptiness.
 ```markdown
 ## To be configured by the user
 
-- [ ] Set up Branch Protection Rules at [Settings/rules](../../settings/rules)
-- [ ] Enable "Automatically delete head branches" at [Settings](../../settings)
-- [ ] Review security settings at [Security](../../security)
+- [ ] Set up Branch Protection Rules at [Settings/rules](../settings/rules)
+- [ ] Enable "Automatically delete head branches" at [Settings](../settings)
+- [ ] Review security settings at [Security](../security)
 
 ## Request to Copilot
 
