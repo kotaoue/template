@@ -52,3 +52,11 @@ Please handle the following tasks.
 
 1. Please rewrite the README based on the contents/name/About of this repository.
 ```
+
+## Tips
+
+1. If you only need [AGENTS.md](./AGENTS.md).
+
+  ```sh
+  curl -O "https://raw.githubusercontent.com/kotaoue/template/refs/heads/main/AGENTS.md"
+  ```
